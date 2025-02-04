@@ -1,4 +1,4 @@
-/*Question: Write a program to create a class Vector with data member *arr,
+/*Question 2: Write a program to create a class Vector with data member *arr,
 where arr is a pointer to a vector. Use dynamic memory allocation for
 this vector. Implement Assignment Operator ( = ) overloading to
 assign one vector into another.*/

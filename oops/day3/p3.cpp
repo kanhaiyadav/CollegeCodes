@@ -1,3 +1,7 @@
+/*Question 3: Create a class Matrix with two data members row and column.
+Use dynamic memory allocation for two dimension array and
+then perform matrix multiplication using operator overloading.*/
+
 #include <iostream>
 using namespace std;
 
